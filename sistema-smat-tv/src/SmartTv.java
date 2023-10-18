@@ -6,7 +6,6 @@ public class SmartTv {
     public void ligar() {
         ligada = true;
     }
-
     public void desligar() {
         ligada = false;
     }
@@ -21,7 +20,6 @@ public class SmartTv {
     public void aumentarCanal(){
         canal--;
     }
-
     public void diminuirCanal(){
         canal--;
     }
